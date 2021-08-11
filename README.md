@@ -1,7 +1,7 @@
 PROJETO DE ALGORITIMOS
 
-Alexandre Baiocco -> https://www.linkedin.com/in/alexandre-baiocco-432b261aa/ 
-Guilherme Rudio -> https://www.linkedin.com/in/guilherme-rudio-790939164/ 
+ Alexandre Baiocco -> https://www.linkedin.com/in/alexandre-baiocco-432b261aa/ 
+ Guilherme Rudio -> https://www.linkedin.com/in/guilherme-rudio-790939164/ 
 
 IDEIA : Um algoritimo que ajude as pessoas a manter a vida saudável
 
